@@ -1,1 +1,1 @@
-<h1>Hello World! This is my index file.</h1>
+<h1>Hello World! This is the index file in my htdocs/dwa15/p2 folder.</h1>
